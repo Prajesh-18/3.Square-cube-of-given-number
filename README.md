@@ -1,0 +1,1 @@
+# 3.Square-cube-of-given-number
